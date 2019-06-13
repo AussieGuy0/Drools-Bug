@@ -3,7 +3,7 @@
 ## Using this repo
 
 ### Running
-Prereqs: Have Java 11 and tomcat9 installed
+Prereqs: Have Java 11 and Tomcat 9 installed
 1. Run `mvn package` in root directory
 2. Move `test.war` to tomcat webapps directory
 3. Restart tomcat
@@ -11,9 +11,9 @@ Prereqs: Have Java 11 and tomcat9 installed
 5. Error will occur and sent back as response
 
 ### Files
-`EstimatorSevlet`: A servlet that runs the rule compilation
-`catalina-example.log`: Snippet of tomcat catalina log that shows error messages
-`localhost-example.log`: Snippet of tomcat localhost log that shows error messages
+- `EstimatorSevlet`: A servlet that runs the rule compilation
+- `catalina-example.log`: Snippet of tomcat catalina log that shows error messages
+- `localhost-example.log`: Snippet of tomcat localhost log that shows error messages
 
 ## Bug Description
 
