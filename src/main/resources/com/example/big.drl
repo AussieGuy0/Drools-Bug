@@ -1,0 +1,120 @@
+package com.sample
+
+rule "1"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "2"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "3"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "4"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "5"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "6"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "7"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "8"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "9"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "10"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "11"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "12"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "13"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "14"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "15"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "16"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "17"
+when
+    String()
+then
+    System.out.println("lol");
+end

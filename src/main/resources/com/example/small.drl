@@ -1,0 +1,30 @@
+package com.sample
+
+rule "1"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "2"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "3"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
+rule "4"
+when
+    String()
+then
+    System.out.println("lol");
+end
+
