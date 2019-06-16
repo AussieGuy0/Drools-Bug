@@ -1,5 +1,5 @@
 grant {
     permission java.util.PropertyPermission "*", "read";
     permission java.lang.RuntimePermission "accessDeclaredMembers";
-    permission java.io.FilePermission "read";
+    permission java.io.FilePermission "*", "read";
 };
